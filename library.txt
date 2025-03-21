@@ -1,0 +1,16 @@
+[
+    {
+        "title": "masters in coding",
+        "author": "alex",
+        "year": "2022",
+        "genre": "mystery",
+        "read": true
+    },
+    {
+        "title": "coding journey",
+        "author": "giaic",
+        "year": "2025",
+        "genre": "AI",
+        "read": true
+    }
+]
